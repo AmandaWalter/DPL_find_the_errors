@@ -3,5 +3,6 @@ class StaticPagesController < ApplicationController
   end
 
   def about
+  end #This methos was missing 'end' to close the method.
   
 end
